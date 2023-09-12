@@ -1,0 +1,27 @@
+_repo: The-Wonder-Island-boys-capture-and-pursuit_71543
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Finlay, Roger T. (Roger Thompson)
+    alias: Finlay, Roger Thompson
+    birthdate: 1860
+    gutenberg_agent_id: '9407'
+    url: http://www.gutenberg.org/2009/agents/9407
+description: ''
+gutenberg_issued: '2023-09-02'
+identifiers:
+  gutenberg: '71543'
+language: en
+pgterms:marc905: 20220526033733finlay
+pgterms:marc906: '1914'
+pgterms:marc907: US
+production_note: Chuck Greif and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNYC :$bThe New York Book Company, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Wonder Island boys; capture and pursuit
+url: http://www.gutenberg.org/ebooks/71543
