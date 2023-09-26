@@ -1,5 +1,8 @@
 _repo: The-Wonder-Island-boys-capture-and-pursuit_71543
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71543-h/images/cover.jpg
 creator:
   author:
     agent_name: Finlay, Roger T. (Roger Thompson)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '9407'
     url: http://www.gutenberg.org/2009/agents/9407
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71543#The-Wonder-Island-boys-capture-and-pursuit
 gutenberg_issued: '2023-09-02'
 identifiers:
   gutenberg: '71543'
